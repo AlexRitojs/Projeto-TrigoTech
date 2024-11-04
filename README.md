@@ -1,6 +1,8 @@
 
 **Alunos:** Alexandre Silva, Sandro Gomes, Luiz Eduardo e Gabriel Henrique
+
 **Colégio:** SESI Paulista
+
 **Professores:**
 Thays Luana (Matemática)
 Eduardo Hernande (Desenvolvimento de Sistemas)
@@ -11,7 +13,7 @@ O projeto TrigonTech foi uma atividade do curso de Desenvolvimento de Sistemas, 
 Sua finalidade era criar um algoritmo na linguagem Python, utilizando a biblioteca math que contém várias funções matemáticas
 incluindo cálculos trigonométricos. O foco é transformar ângulos de graus para radianos e, em seguida, calcular a tangente.
 
-## Entrada do Usuário ## : 
+## Entrada do Usuário ##
 O programa solicita ao usuário que digite um ângulo em graus. Esse valor é lido como uma string, mas é convertido para float
 para garantir que o usuário possa digitar valores com casas decimais.
 
